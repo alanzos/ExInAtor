@@ -1,3 +1,6 @@
+<h1>Important disclaimer</h1>
+<p>Please use mutations from Whole Genome Sequences, ExInAtor requires mutations in exons, introns and intergenic regions. That is why mutations Exome sequences are not suitable for ExInAtor.</p>
+
 <h1>Table Of Contents
 <ul>
 <li><a class="reference internal" href="#authors">Authors</a></li>
