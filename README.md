@@ -75,7 +75,7 @@ comprehensive results for all analyzed genes.</p>
 </div>
 <div class="section" id="inputs">
 <h1>Inputs<a class="headerlink" href="#inputs" title="Permalink to this headline">¶</a></h1>
-<p>All of the following files are provided in the compressed file &#8220;All_files.zip&#8221; but the Fasta file of the whole genome (&#8220;-f | &#8211;fasta_file&#8221;) which can be obtained here: <a class="reference external" href="https://www.dropbox.com/s/a6vthezotm6iaih/Genome_v19.fasta.gz?dl=0">https://www.dropbox.com/s/a6vthezotm6iaih/Genome_v19.fasta.gz?dl=0</a></p>
+<p>All of the following files are provided in the compressed file &#8220;All_files.zip&#8221; except the Fasta file of the whole genome (&#8220;-f | &#8211;fasta_file&#8221;) which can be obtained <a class="reference external" href="https://www.dropbox.com/s/a6vthezotm6iaih/Genome_v19.fasta.gz?dl=0">here (818 MB)</a></p>
 <dl class="docutils">
 <dt><strong>1. Mandatory</strong>:</dt>
 <dd><ul class="first last simple">
