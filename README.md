@@ -18,7 +18,7 @@
 <a class="reference external" href="mailto:loris.mularoni@irbbarcelona.org">Loris Mularoni</a> <sup>3,4</sup>
 <a class="reference external" href="mailto:freverter@ub.edu">Ferran Reverter</a> <sup>1,2,3</sup>
 <a class="reference external" href="mailto:emilio.palumbo@crg.eu">Emilio Palumbo</a> <sup>1,2,3</sup>
-<a class="reference external" href="mailto:roderic.guigo@crg.eu">Roderic Guigó</a> <sup>1,2,3`</sup>
+<a class="reference external" href="mailto:roderic.guigo@crg.eu">Roderic Guigó</a> <sup>1,2,3</sup>
 <a class="reference external" href="mailto:rory.johnson@dbmr.unibe.ch">Rory Johnson</a> <sup>1,2,3,5 *</sup></p>
 <ol class="arabic simple">
 <li>Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, Barcelona, 08003, Spain.</li>
