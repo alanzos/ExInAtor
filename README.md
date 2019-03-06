@@ -13,13 +13,13 @@
 </ul>
 
 <h1>Authors<a class="headerlink" href="#authors" title="Permalink to this headline">¶</a></h1>
-<p><a class="reference external" href="mailto:andres&#46;lanzos&#37;&#52;&#48;crg&#46;eu">Andrés Lanzós</a> <sup>1,2,3</sup>
-<a class="reference external" href="mailto:joana&#46;carlevaro&#37;&#52;&#48;crg&#46;eu">Joana Carlevaro-Fita</a> <sup>1,2,3</sup>
-<a class="reference external" href="mailto:loris&#46;mularoni&#37;&#52;&#48;upf&#46;edu">Loris Mularoni</a> <sup>3,4</sup>
-<a class="reference external" href="mailto:ferran&#46;reverter&#37;&#52;&#48;crg&#46;eu">Ferran Reverter</a> <sup>1,2,3</sup>
-<a class="reference external" href="mailto:emilio&#46;palumbo&#37;&#52;&#48;crg&#46;eu">Emilio Palumbo</a> <sup>1,2,3</sup>
-<a class="reference external" href="mailto:roderic&#46;guigo&#37;&#52;&#48;crg&#46;eu">Roderic Guigó</a> <sup>1,2,3`</sup>
-<a class="reference external" href="mailto:rory&#46;johnson&#37;&#52;&#48;crg&#46;eu">Rory Johnson</a> <sup>1,2,3,5 *</sup></p>
+<p><a class="reference external" href="mailto:andres.lanzos@dbmr.unibe.ch">Andrés Lanzós</a> <sup>1,2,3</sup>
+<a class="reference external" href="mailto:joana.carlevaro@dbmr.unibe.ch">Joana Carlevaro-Fita</a> <sup>1,2,3</sup>
+<a class="reference external" href="mailto:loris.mularoni@irbbarcelona.org">Loris Mularoni</a> <sup>3,4</sup>
+<a class="reference external" href="mailto:freverter@ub.edu">Ferran Reverter</a> <sup>1,2,3</sup>
+<a class="reference external" href="mailto:emilio.palumbo@crg.eu">Emilio Palumbo</a> <sup>1,2,3</sup>
+<a class="reference external" href="mailto:roderic.guigo@crg.eu">Roderic Guigó</a> <sup>1,2,3`</sup>
+<a class="reference external" href="mailto:rory.johnson@dbmr.unibe.ch">Rory Johnson</a> <sup>1,2,3,5 *</sup></p>
 <ol class="arabic simple">
 <li>Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, Dr. Aiguader 88, Barcelona, 08003, Spain.</li>
 <li>Universitat Pompeu Fabra (UPF), Barcelona, Spain.</li>
@@ -53,7 +53,7 @@ comprehensive results for all analyzed genes.</p>
 <p><strong>1. Linux</strong>:</p>
 <p>Tested in Ubuntu 14.04</p>
 <p><strong>2. Bedtools</strong>:</p>
-<p>Version 2.19.1</p>
+<p>Please use version 2.19.1. More recent versions will not work because of changes in some bedtools commands.</p>
 <p><strong>3. Python</strong>:</p>
 <p>Tested on version 2.7.6</p>
 <p><strong>4. R</strong>:</p>
@@ -75,7 +75,7 @@ comprehensive results for all analyzed genes.</p>
 </div>
 <div class="section" id="inputs">
 <h1>Inputs<a class="headerlink" href="#inputs" title="Permalink to this headline">¶</a></h1>
-<p>All of the following files are provided in the compressed file &#8220;All_files.zip&#8221; but the Fasta file of the whole genome (&#8220;-f | &#8211;fasta_file&#8221;) which can be obtained here: <a class="reference external" href="ftp://ftp.sanger.ac.uk/pub/gencode/Gencode_human/release_19/GRCh37.p13.genome.fa.gz">ftp://ftp.sanger.ac.uk/pub/gencode/Gencode_human/release_19/GRCh37.p13.genome.fa.gz</a></p>
+<p>All of the following files are provided in the compressed file &#8220;All_files.zip&#8221; but the Fasta file of the whole genome (&#8220;-f | &#8211;fasta_file&#8221;) which can be obtained here: <a class="reference external" href="https://www.dropbox.com/s/a6vthezotm6iaih/Genome_v19.fasta.gz?dl=0">https://www.dropbox.com/s/a6vthezotm6iaih/Genome_v19.fasta.gz?dl=0</a></p>
 <dl class="docutils">
 <dt><strong>1. Mandatory</strong>:</dt>
 <dd><ul class="first last simple">
