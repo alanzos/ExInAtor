@@ -1,9 +1,9 @@
 
-#################################################################################################
+#######################################################################################
 <h1>PLEASE NOTE</h1>
 <p>ExInAtor is ONLY designed to be used with mutations from Whole Genome Sequences.
  It is NOT designed to be used with Exome data.</p>
-#################################################################################################
+#######################################################################################
 <h1>Table Of Contents
 <ul>
 <li><a class="reference internal" href="#authors">Authors</a></li>
